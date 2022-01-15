@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zorropt
+- 👋 Hi, I’m Rui Pinto
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer engineer
 
